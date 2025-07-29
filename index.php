@@ -205,7 +205,8 @@
       </h5>
     </div>
 
-    <div class="col-12 banner-content text-center text-dark py-5 px-3 px-sm-5"
+    <!-- DO NOT DELETE THIS 
+     <div class="col-12 banner-content text-center text-dark py-5 px-3 px-sm-5"
       style=" font-family: 'Lexend', sans-serif; ">
       <div class="mb-4">
         <div class="badge text-white fw-bold mx-auto rounded-0"
@@ -227,7 +228,7 @@
 
       <div class="mb-4 pt-4 pb-3 position-relative">
         <h6 class="fw-bold position-relative d-inline-block" style="font-family: 'poppins' ;color: #0E171F;">
-          <!-- Positioned badge above "This" -->
+          
           <span class="fw-mefium position-absolute"
             style="top: -1rem; left: -3rem; letter-spacing: 2px; transform: rotate(-20deg); font-size: 20px; font-family: 'Just Another Hand', sans-serif; color: #149345;">
             Save the date!
@@ -241,7 +242,7 @@
       </a>
       <p class="text-dark mt-1" style="font-family: 'poppins' ;color: #0E171F;">Secure Your Spot – Free Registration!
       </p>
-    </div>
+    </div>-->
   </div>
 
   <!-- Heading + Paragraph + Button -->
@@ -497,41 +498,59 @@
     </div>
   </div>
 
-
-  <div class="container mobileview" style="font-family: 'Lexend', sans-serif; max-width: 70%;">
-    <!-- What images -->
-    <div class="row g-4 justify-content-center align-items-center mb-5 pb-5"
-      style="min-height: 110rem; margin-top: -25rem;">
-
-      <!-- <- Increase height here -->
-      <div class="col-12 mb-5">
-        <div class="position-relative central-wrapper" style="min-height: 520px; padding-bottom: 300px;">
-          <div class="card p-4 rounded-4 border-0 shadow-sm mx-auto mb-5"
-            style="background-color: rgba(137, 16, 20, 0.07); max-width: 900px; z-index: 2; position: relative;">
-            <div class="card-body">
-              <h5 class="fw-semibold mb-3" style="font-family: 'Lexend', sans-serif;">
-                Centralized Operations Center
-              </h5>
-              <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
-                Streamline team collaboration with a unified ticketing system that automatically filters and
-                routes tasks based on departments, ensuring efficient workflow management across your
-                organization.
-              </p>
-            </div>
+  <div class="col-lg-12 col-md-12 p-5">
+    <div class="row g-4 justify-content-center align-items-center pb-5">
+      <div class="col-auto">
+        <div class="card p-4 rounded-4 border-0 shadow-sm mx-auto mb-5 custom-mobile-img"
+          style="background-color: rgba(137, 16, 20, 0.07); max-width: 900px; z-index: 2; position: relative; ">
+          <div class="card-body">
+            <h5 class="fw-semibold mb-3" style="font-family: 'Lexend', sans-serif;">
+              Centralized Operations Center
+            </h5>
+            <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
+              Streamline team collaboration with a unified ticketing system that automatically filters and
+              routes tasks based on departments, ensuring efficient workflow management across your
+              organization.
+            </p>
           </div>
+        </div>
+        <div style="margin-top: -90px;position: relative; z-index:2;">
+          <img src="assets/img/img_14.png" alt="Banner Preview"
+            class="img-fluid pb-5 mx-auto d-block custom-mobile-img">
 
-          <!-- Background Image: fixed width/position -->
-          <img src="assets/img/image_13.png" alt="Background Tickets"
-            class="position-absolute img-fluid central-image-bg"
-            style="width: 70%; top: 120px; left: 40%; z-index: 2; ">
-
-          <!-- Foreground Image: fixed width/position -->
-          <img src="assets/img/image_15.png" alt="Main Ticket View"
-            class="position-absolute img-fluid rounded-3 shadow-lg central-image-fg"
-            style="width: 80%; top: 70%; right: 30%; z-index: 2;">
         </div>
       </div>
     </div>
+  </div>
+
+
+  <div class="container mobileview" style="font-family: 'Lexend', sans-serif; max-width: 70%;">
+    <!-- What images -->
+    <!--<div class="row g-4 justify-content-center align-items-center mb-5 pb-5"
+      style="min-height: 110rem; margin-top: -25rem;">
+      <div class="col-12 mb-5">
+        <div class="card mx-auto border-0 shadow-none"
+          style="background-color: transparent; max-width: 1000px; position: relative;">
+          <div class="position-relative w-100" style="min-height: 520px; padding-bottom: 300px;">
+            <div class="card p-4 rounded-4 border-0 shadow-sm mx-auto mb-5"
+              style="background-color: rgba(137, 16, 20, 0.07); max-width: 900px; z-index: 2; position: relative;">
+              <div class="card-body">
+                <h5 class="fw-semibold mb-3" style="font-family: 'Lexend', sans-serif;">
+                  Centralized Operations Center
+                </h5>
+                <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
+                  Streamline team collaboration with a unified ticketing system that automatically filters and
+                  routes tasks based on departments, ensuring efficient workflow management across your
+                  organization.
+                </p>
+                <img src="assets/img/img_14.png" alt="Background Tickets" class="position-absolute img-fluid w-100"
+                  style="top: 120px; left: 50%; transform: translateX(-50%); z-index: 1;">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>-->
     <!-- What We Deliver -->
     <div class="col-12">
       <div class="row gy-2 gx-4">
@@ -911,8 +930,8 @@
 
         <!-- Right: QR Image -->
         <div class="col-md-3 text-end">
-          <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;"><i>Login</i> or <i>Sign Up to
-            </i>
+          <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">Login or Sign Up to
+
             <div class="col-12 d-flex justify-content-start pb-3">
               <img src="assets/Logos/SVG/ClientBook Logo FullColour - White Text.svg" alt="Banner Preview"
                 class="img-fluid" style="max-width: 210px;">
@@ -974,7 +993,7 @@
           </a>-->
         </div>
         <div class="col-6 text-end">
-          <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">Login to sign Up to</span>
+          <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">Login or Sign Up to</span>
           <div class="col-4 d-flex justify-content-start">
             <img src="assets/Logos/SVG/ClientBook Logo FullColour - White Text.svg" alt="Banner Preview"
               class="img-fluid" style="max-width: 55px;">
