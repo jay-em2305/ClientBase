@@ -524,11 +524,26 @@
         </div>
     </div>
 
+    <style>
+        .central-wrapper {
+            position: relative;
+            overflow: hidden;
+            /* add this if you don't want the images spilling outside */
+        }
 
+        @media (max-width: 1200px) {
+            .central-image-fg {
+                width: 60% !important;
+                right: 10% !important;
+                top: 80% !important;
+            }
+        }
+    </style>
     <div class="container mobileview" style="font-family: 'Lexend', sans-serif; max-width: 70%;">
         <!-- What images -->
         <div class="row g-4 justify-content-center align-items-center mb-5 pb-5"
-            style="min-height: 110rem; margin-top: -25rem;">
+            style="padding-top: 10rem; padding-bottom: 10rem;">
+
 
             <!-- <- Increase height here -->
             <div class="col-12 mb-5">
