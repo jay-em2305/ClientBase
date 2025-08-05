@@ -191,20 +191,21 @@
       </div>
     </div>
   </nav>
+  <div class="col-lg-12 text-center pt-5 pb-5" style="margin-top: 50px;">
+    <div class="col-lg-12 text-center py-5 pt-5 mt-5 px-5 px-sm-5 banner-content" style="padding-top: 120; ">
+      <div class="p-5"
+        style="max-width: 1000px; margin: 0 auto; padding-left: 15px; padding-right: 15px; margin-top: 50px;">
+        <h1 class="fw-semibold text-center display-3 pb-3"
+          style=" font-family: 'Lexend', sans-serif;line-height: 110%;color: #0E171F;">
+          <span class="underline_decor">Transform </span>Your<br> Entity Management Firm.
+        </h1>
 
-  <div class="col-lg-12 text-center py-5 pt-5 mt-5" style="padding-top: 120;">
-    <div style="max-width: 1000px; margin: 0 auto; padding-left: 15px; padding-right: 15px; margin-top: 50px;">
-      <h1 class="fw-semibold text-center display-3"
-        style=" font-family: 'Lexend', sans-serif;line-height: 110%;color: #0E171F;">
-        <span class="underline_decor">Transform </span>Your<br> Entity Management Firm.
-      </h1>
-
-      <h5 class="pb-5 text-center" style=" font-family: 'poppins' ;color: #0E171F;">
-        Discover how leading firms achieve complete control and confidence through
-        optimized IT infrastructure and intelligent practice management.
-      </h5>
+        <h5 class="pb-3 text-center" style=" font-family: 'poppins' ;color: #0E171F;">
+          Discover how leading firms achieve complete control and confidence through
+          optimized IT infrastructure and intelligent practice management.
+        </h5>
+      </div>
     </div>
-
     <!-- DO NOT DELETE THIS 
      <div class="col-12 banner-content text-center text-dark py-5 px-3 px-sm-5"
       style=" font-family: 'Lexend', sans-serif; ">
@@ -246,7 +247,7 @@
   </div>
 
   <!-- Heading + Paragraph + Button -->
-  <div class="container mobileview" style="font-family: 'Lexend', sans-serif; max-width: 70%;">
+  <div class="container mobileview pt-5" style="font-family: 'Lexend', sans-serif; max-width: 70%;">
     <div class="row justify-content-center py-5">
       <!-- Main Text Block -->
       <div class="col-12 col-lg-10  mt-5 mb-4 text-center text-lg-start">
@@ -285,9 +286,11 @@
             <h5 class="fw-bold">IT Infrastructure & PDPA Compliance</h5>
             <p class="text-dark text-justify text-justify-mobile"
               style="font-size: 15px;line-height: 2; font-family: 'poppins' ;">
-              We specialize in building and optimizing IT environments specifically for regulated professional firms.
+              We specialize in building and optimizing IT environments specifically for regulated
+              professional firms.
               Our
-              comprehensive review process ensures your technology infrastructure not only performs optimally but meets
+              comprehensive review process ensures your technology infrastructure not only performs
+              optimally but meets
               all PDPA compliance requirements.
             </p>
           </div>
@@ -313,7 +316,8 @@
                       <div class="card-body">
                         <div class="row align-items-center">
                           <div class="col-9 text-start">
-                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Specialized Solutions</h5>
+                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">
+                              Specialized Solutions</h5>
                           </div>
                           <div class="col-3 d-flex justify-content-end">
                             <img src="assets/img/check.png" alt="Banner Preview" class="img-fluid"
@@ -323,9 +327,11 @@
                         <div class="row mt-3">
                           <div class="col-12">
                             <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
-                              We deliver tailored IT infrastructure solutions designed specifically for the unique
+                              We deliver tailored IT infrastructure solutions designed
+                              specifically for the unique
                               operational and
-                              regulatory challenges faced by professional services firms in regulated industries.
+                              regulatory challenges faced by professional services firms
+                              in regulated industries.
                             </p>
                           </div>
                         </div>
@@ -346,7 +352,8 @@
                           </div>
                           <!-- Heading -->
                           <div class="col-9 text-end">
-                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Complete IT Environment
+                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">
+                              Complete IT Environment
                               Assessment</h5>
                           </div>
                         </div>
@@ -355,9 +362,11 @@
                         <div class="row mt-3">
                           <div class="col-12">
                             <p class="fw-light mb-0 text-end" style="font-size: 14px; font-family: 'Poppins';">
-                              Conduct through evaluations of your current technology infrastructure to identify
+                              Conduct through evaluations of your current technology
+                              infrastructure to identify
                               performance gaps,
-                              security vulnerabilities, and compliance deficiencies with actionable improvement
+                              security vulnerabilities, and compliance deficiencies with
+                              actionable improvement
                               recommendations.
                             </p>
                           </div>
@@ -372,7 +381,8 @@
                       <div class="card-body">
                         <div class="row align-items-center">
                           <div class="col-9 text-start">
-                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">PDPA Compliance Framework
+                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">
+                              PDPA Compliance Framework
                               Implementation</h5>
                           </div>
                           <div class="col-3 d-flex justify-content-center">
@@ -384,8 +394,10 @@
                           <div class="col-12">
                             <p class="fw-light mb-0 text-start"
                               style="font-size: 14px; font-family: 'Poppins'; max-width: 80%;">
-                              Establish robust data protection protocols and systems that ensure full compliance with
-                              Singapore's Personal Data Protection Act, including data governance policies and breach
+                              Establish robust data protection protocols and systems that
+                              ensure full compliance with
+                              Singapore's Personal Data Protection Act, including data
+                              governance policies and breach
                               prevention measures.
                             </p>
                           </div>
@@ -401,7 +413,8 @@
                       <div class="card-body">
                         <div class="row align-items-center">
                           <div class="col-8 text-start">
-                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Purpose-built Environments for
+                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">
+                              Purpose-built Environments for
                               Regulated Industries</h5>
                           </div>
                           <div class="col-4 d-flex justify-content-end">
@@ -412,8 +425,10 @@
                         <div class="row mt-3">
                           <div class="col-12">
                             <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
-                              Design and deploy IT infrastructures specifically engineered to meet the stringent
-                              security, performance, and regulatory requirements of professional firms in finance,
+                              Design and deploy IT infrastructures specifically engineered
+                              to meet the stringent
+                              security, performance, and regulatory requirements of
+                              professional firms in finance,
                               legal, and consulting sectors.
                             </p>
                           </div>
@@ -432,15 +447,18 @@
                               style="max-width: 55px;">
                           </div>
                           <div class="col-8 text-end">
-                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Compliance Maintenance</h5>
+                            <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">
+                              Compliance Maintenance</h5>
                           </div>
 
                         </div>
                         <div class="row mt-3">
                           <div class="col-12">
                             <p class="fw-light mb-0 text-end" style="font-size: 14px; font-family: 'Poppins';">
-                              Provide ongoing monitoring and maintenance services to ensure your IT environment
-                              continuously meets evolving regulatory standards and maintains optimal performance over
+                              Provide ongoing monitoring and maintenance services to
+                              ensure your IT environment
+                              continuously meets evolving regulatory standards and
+                              maintains optimal performance over
                               time.
                             </p>
                           </div>
@@ -477,9 +495,11 @@
                     class="img-fluid rounded-5" style="width: 100%; max-width: 40%; z-index: 1;">
                   <p class="text-dark text-justify text-justify-mobile"
                     style="font-size: 14px;line-height: 3; font-family: 'poppins' ;">
-                    Our comprehensive platform will help you transform from reactive management to strategic leadership
+                    Our comprehensive platform will help you transform from reactive management to
+                    strategic leadership
                     by
-                    eliminating app-switching chaos and gain complete oversight of every aspect of your business
+                    eliminating app-switching chaos and gain complete oversight of every aspect of
+                    your business
                     operations.
                   </p>
                 </div>
@@ -559,7 +579,8 @@
             <div class="card-body">
               <div class="row align-items-center">
                 <div class="col-9 text-start">
-                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Centralized Client Records and
+                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Centralized Client
+                    Records and
                     File Storage</h5>
                 </div>
                 <div class="col-3 d-flex justify-content-end">
@@ -569,7 +590,8 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
-                    Access all client information, contacts, and employee records from one secure, centralized
+                    Access all client information, contacts, and employee records from one secure,
+                    centralized
                     database with customizable authorization controls for team members.
                   </p>
                 </div>
@@ -597,7 +619,8 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-end" style="font-size: 14px; font-family: 'Poppins';">
-                    Monitor and maintain adherence to Singaporean regulatory requirements with automated
+                    Monitor and maintain adherence to Singaporean regulatory requirements with
+                    automated
                     tracking tools that help clients stay compliant and avoid legal issues.
                   </p>
                 </div>
@@ -611,7 +634,8 @@
             <div class="card-body">
               <div class="row align-items-center">
                 <div class="col-8 text-start">
-                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Seamless Email Integration</h5>
+                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Seamless Email
+                    Integration</h5>
                 </div>
                 <div class="col-4 d-flex justify-content-end">
                   <img src="assets/img/email.png" alt="Banner Preview" class="img-fluid" style="max-width: 55px;">
@@ -620,8 +644,10 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
-                    Work directly within the app with built-in Gmail and Outlook integration, allowing you to
-                    send emails, attach documents, and automatically save correspondence to client records
+                    Work directly within the app with built-in Gmail and Outlook integration,
+                    allowing you to
+                    send emails, attach documents, and automatically save correspondence to client
+                    records
                     without switching platforms.
                   </p>
                 </div>
@@ -646,8 +672,10 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-end" style="font-size: 14px; font-family: 'Poppins';">
-                    Foster team collaboration through organized comment threads on any record, creating a
-                    centralized communication history that makes tracking conversations and decisions
+                    Foster team collaboration through organized comment threads on any record,
+                    creating a
+                    centralized communication history that makes tracking conversations and
+                    decisions
                     effortless.
                   </p>
                 </div>
@@ -660,7 +688,8 @@
             <div class="card-body">
               <div class="row align-items-center">
                 <div class="col-9 text-start">
-                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">AML/CFT Risk Monitoring</h5>
+                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">AML/CFT Risk Monitoring
+                  </h5>
                 </div>
                 <div class="col-3 d-flex justify-content-end">
                   <img src="assets/img/watch.png" alt="Banner Preview" class="img-fluid" style="max-width: 55px;">
@@ -669,8 +698,10 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
-                    Conduct comprehensive anti-money laundering and counter-terrorism financing assessments for
-                    new and existing clients, including Know-Your-Customer background checks with results
+                    Conduct comprehensive anti-money laundering and counter-terrorism financing
+                    assessments for
+                    new and existing clients, including Know-Your-Customer background checks with
+                    results
                     automatically saved to client profiles.
                   </p>
                 </div>
@@ -698,7 +729,8 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-end" style="font-size: 14px; font-family: 'Poppins';">
-                    Accelerate document processing with secure electronic signatures that reduce costs, enhance
+                    Accelerate document processing with secure electronic signatures that reduce
+                    costs, enhance
                     security, and improve the overall client experience.
                   </p>
                 </div>
@@ -712,7 +744,8 @@
             <div class="card-body">
               <div class="row align-items-center">
                 <div class="col-8 text-start">
-                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">ACRA Entity Information Query
+                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">ACRA Entity Information
+                    Query
                   </h5>
                 </div>
                 <div class="col-4 d-flex justify-content-end">
@@ -722,7 +755,8 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
-                    Instantly access up-to-date profile information for any registered ACRA entity directly
+                    Instantly access up-to-date profile information for any registered ACRA entity
+                    directly
                     within your workflow.
                   </p>
                 </div>
@@ -739,14 +773,16 @@
                   <img src="assets/img/light.png" alt="Banner Preview" class="img-fluid" style="max-width: 55px;">
                 </div>
                 <div class="col-8 text-end">
-                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Real-time Insights and Analytics</h5>
+                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Real-time Insights and
+                    Analytics</h5>
                 </div>
 
               </div>
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-end" style="font-size: 14px; font-family: 'Poppins';">
-                    Transform your operational data into actionable insights with comprehensive departmental and
+                    Transform your operational data into actionable insights with comprehensive
+                    departmental and
                     company-wide analytics that empower management decision-making.
                   </p>
                 </div>
@@ -759,7 +795,8 @@
             <div class="card-body">
               <div class="row align-items-center">
                 <div class="col-9 text-start">
-                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Client Lifecycle Management</h5>
+                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Client Lifecycle
+                    Management</h5>
                 </div>
                 <div class="col-3 d-flex justify-content-end">
                   <img src="assets/img/docurec.png" alt="Banner Preview" class="img-fluid" style="max-width: 55px;">
@@ -768,7 +805,8 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
-                    Track and manage every stage of your client relationships from initial contact through
+                    Track and manage every stage of your client relationships from initial contact
+                    through
                     project completion with comprehensive lifecycle visibility.
                   </p>
                 </div>
@@ -788,7 +826,8 @@
                 </div>
                 <!-- Heading -->
                 <div class="col-9 text-end">
-                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Integrated WhatsApp Messaging</h5>
+                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">Integrated WhatsApp
+                    Messaging</h5>
                 </div>
               </div>
 
@@ -796,7 +835,8 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-end" style="font-size: 14px; font-family: 'Poppins';">
-                    Communicate with clients and team members directly through WhatsApp integration, keeping all
+                    Communicate with clients and team members directly through WhatsApp integration,
+                    keeping all
                     conversations organized within your client management system.
                   </p>
                 </div>
@@ -810,7 +850,8 @@
             <div class="card-body">
               <div class="row align-items-center">
                 <div class="col-8 text-start">
-                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">People Performance Tracker</h5>
+                  <h5 class="fw-semibold mb-0" style="font-family: 'Poppins';">People Performance
+                    Tracker</h5>
                 </div>
                 <div class="col-4 d-flex justify-content-end">
                   <img src="assets/img/chat.png" alt="Banner Preview" class="img-fluid" style="max-width: 55px;">
@@ -819,8 +860,10 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-start" style="font-size: 14px; font-family: 'Poppins';">
-                    Leverage system-wide data to generate detailed performance analytics for individual
-                    employees or entire teams, supporting informed decisions on training, incentives, and
+                    Leverage system-wide data to generate detailed performance analytics for
+                    individual
+                    employees or entire teams, supporting informed decisions on training,
+                    incentives, and
                     personnel management.
                   </p>
                 </div>
@@ -844,7 +887,8 @@
               <div class="row mt-3">
                 <div class="col-12">
                   <p class="fw-light mb-0 text-end" style="font-size: 14px; font-family: 'Poppins';">
-                    Create professional proposals quickly with real-time collaboration tools and integrated
+                    Create professional proposals quickly with real-time collaboration tools and
+                    integrated
                     sales pipeline tracking to streamline your business development process.
                   </p>
                 </div>
@@ -895,12 +939,15 @@
                     style="background-color: #CC2127; color:#fff">Submit</button>
                 </div>
                 <div class="col-lg-4" style=" font-family: 'poppins';">
-                  <p>We believe business should be about building what matters most to you and not getting bogged down
+                  <p>We believe business should be about building what matters most to you and not
+                    getting bogged down
                     in complexity.</p>
                   <br>
                   <p>
-                    Drop us your details below and we'll connect you with someone from our team who actually gets your
-                    industry. Expect to hear back within 48 hours (usually sooner, because we're eager to chat).
+                    Drop us your details below and we'll connect you with someone from our team who
+                    actually gets your
+                    industry. Expect to hear back within 48 hours (usually sooner, because we're
+                    eager to chat).
                   </p>
                   <br>
                   <p>
@@ -993,7 +1040,8 @@
           </a>-->
         </div>
         <div class="col-6 text-end">
-          <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">Login or Sign Up to</span>
+          <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">Login or Sign Up
+            to</span>
           <div class="col-4 d-flex justify-content-start">
             <img src="assets/Logos/SVG/ClientBook Logo FullColour - White Text.svg" alt="Banner Preview"
               class="img-fluid" style="max-width: 55px;">
