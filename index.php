@@ -192,7 +192,7 @@
     </div>
   </nav>
   <div class="col-lg-12 text-center pt-5 pb-5" style="margin-top: 50px;">
-    <div class="col-lg-12 text-center py-5 pt-5 mt-5 px-5 px-sm-5 banner-content" style="padding-top: 120; ">
+    <div class="col-lg-12 text-center py-4 pt-4 mt-5 px-5 px-sm-5 banner-content" style="padding-top: 120; ">
       <div class="p-5"
         style="max-width: 1000px; margin: 0 auto; padding-left: 15px; padding-right: 15px; margin-top: 50px;">
         <h1 class="fw-semibold text-center display-3 pb-3"
@@ -347,7 +347,7 @@
                         <div class="row align-items-center">
                           <!-- Image/Icon -->
                           <div class="col-3 d-flex justify-content-start">
-                            <img src="assets/img/vector.png" alt="Banner Preview" class="img-fluid"
+                            <img src="assets/img/Vector.png" alt="Banner Preview" class="img-fluid"
                               style="max-width: 55px;">
                           </div>
                           <!-- Heading -->
