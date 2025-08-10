@@ -920,20 +920,20 @@
 
                   <div class="form-floating mb-3">
                     <input type="text" class="form-control" id="fullname" placeholder="fullname" required>
-                    <label for="fullname">Fullname</label>
+                    <label for="fullname" class="text-danger">Fullname</label>
                   </div>
                   <div class="form-floating mb-3">
                     <input type="email" class="form-control" id="email" placeholder="Email" required>
-                    <label for="email">Email</label>
+                    <label for="email" class="text-danger">Email</label>
                   </div>
                   <div class="form-floating mb-3">
                     <input type="number" class="form-control" id="companysize" placeholder="Company Size" required>
-                    <label for="companysize">Company Size</label>
+                    <label for="companysize" class="text-danger">Company Size</label>
                   </div>
                   <div class="form-floating">
                     <textarea class="form-control" id="inquiry" placeholder="Leave a comment here"
                       id="floatingTextarea2" style="height: 200px"></textarea>
-                    <label for="floatingTextarea2">Briefing of summary in Inquiry </label>
+                    <label for="floatingTextarea2" class="text-danger">Briefing of summary in Inquiry </label>
                   </div>
                   <button type="submit" id="submitBtn" class="btn w-100 rounded-pill mt-3 hover-btn"
                     style="background-color: #CC2127; color:#fff">Submit</button>
@@ -980,8 +980,9 @@
           <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">Login or Sign Up to
 
             <div class="col-12 d-flex justify-content-start pb-3">
-              <img src="assets/Logos/SVG/ClientBook Logo FullColour - White Text.svg" alt="Banner Preview"
-                class="img-fluid" style="max-width: 210px;">
+              <img
+                src="assets/Logos/ClientBase Platform Logo/SVG/ClientBase Platform Logo FullColour - White Text (transparent bg).svg"
+                alt="Banner Preview" class="img-fluid" style="max-width: 210px;">
             </div>
           </span>
           <img src="assets/img/clientbase_qr.png" alt="QR Code" class="img-fluid justify-content-end"
@@ -1043,8 +1044,9 @@
           <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">Login or Sign Up
             to</span>
           <div class="col-4 d-flex justify-content-start">
-            <img src="assets/Logos/SVG/ClientBook Logo FullColour - White Text.svg" alt="Banner Preview"
-              class="img-fluid" style="max-width: 55px;">
+            <img
+              src="assets/Logos/ClientBase Platform Logo/SVG/ClientBase Platform Logo FullColour - White Text (transparent bg).svg"
+              alt="Banner Preview" class="img-fluid" style="max-width: 55px;">
           </div>
           <img src="assets/img/clientbase_qr.png" alt="QR Code" class="img-fluid" style="max-width: 150px;">
         </div>
