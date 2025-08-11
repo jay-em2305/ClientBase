@@ -979,13 +979,13 @@
         <div class="col-md-3 text-end">
           <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">Login or Sign Up to
 
-            <div class="col-12 d-flex justify-content-start pb-3">
+            <div class="col-12 d-flex justify-content-end pb-3">
               <img
                 src="assets/Logos/ClientBase Platform Logo/SVG/ClientBase Platform Logo FullColour - White Text (transparent bg).svg"
                 alt="Banner Preview" class="img-fluid" style="max-width: 210px;">
             </div>
           </span>
-          <img src="assets/img/clientbase_qr.png" alt="QR Code" class="img-fluid justify-content-end"
+          <img src="assets/img/ClientBase Platform QR.png" alt="QR Code" class="img-fluid justify-content-end"
             style="max-width: 150px;">
         </div>
 
@@ -1019,8 +1019,13 @@
                 <i class="bi bi-linkedin"></i>
               </a>
             </div>
-            <span class="text-white small ms-3"
-              style="font-family: 'poppins'; font-size: 10px;">info@clientbase.pro</span>
+            <!--<span class="text-white small ms-3"
+              style="font-family: 'poppins'; font-size: 10px;">info@clientbase.pro</span>-->
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@clientbase.pro&su=Inquiry" target="_blank"
+              class="text-white small ms-3 text-decoration-none" style="font-family: 'poppins'; font-size: 10px;">
+              info@clientbase.pro
+            </a>
+
           </div>
         </div>
       </div>
@@ -1043,12 +1048,12 @@
         <div class="col-6 text-end">
           <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">Login or Sign Up
             to</span>
-          <div class="col-4 d-flex justify-content-start">
+          <div class="col-4 d-flex justify-content-end">
             <img
               src="assets/Logos/ClientBase Platform Logo/SVG/ClientBase Platform Logo FullColour - White Text (transparent bg).svg"
               alt="Banner Preview" class="img-fluid" style="max-width: 55px;">
           </div>
-          <img src="assets/img/clientbase_qr.png" alt="QR Code" class="img-fluid" style="max-width: 150px;">
+          <img src="assets/img/ClientBase Platform QR.png" alt="QR Code" class="img-fluid" style="max-width: 150px;">
         </div>
       </div>
 
@@ -1064,7 +1069,12 @@
               <a href="https://www.linkedin.com/company/clientbase-pte-ltd/?originalSubdomain=sg" target="_blank"
                 class="text-white fs-5"><i class="bi bi-linkedin"></i></a>
             </div>
-            <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">info@clientbase.pro</span>
+            <!-- <span class="text-white small" style="font-family: 'poppins'; font-size: 10px;">info@clientbase.pro</span>-->
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@clientbase.pro&su=Inquiry" target="_blank"
+              class="text-white small ms-3 text-decoration-none" style="font-family: 'poppins'; font-size: 10px;">
+              info@clientbase.pro
+            </a>
+
           </div>
           <hr class="border-white opacity-50 my-3">
         </div>
