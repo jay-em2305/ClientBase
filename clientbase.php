@@ -320,7 +320,7 @@
                                     </p>
                                 </div>
 
-                                <!-- ✅ Single Image for Mobile/Tablet -->
+                                <!--  Single Image for Mobile/Tablet -->
                                 <div class="col-12 d-block d-lg-none pb-4">
                                     <img src="assets/img/gray.png" class="img-fluid rounded-5 shadow"
                                         style="width: 100%;">

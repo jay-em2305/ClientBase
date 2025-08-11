@@ -1137,13 +1137,13 @@
         .then(res => res.json())
         .then(data => {
           if (data.success) {
-            showToast("✅ You have been added to the waiting list!", true);
+            showToast("You have been added to the waiting list!", true);
           } else {
-            showToast("❌ Failed to added on waiting list.", false);
+            showToast("Failed to added on waiting list.", false);
           }
         })
         .catch(() => {
-          showToast("❌ Something went wrong.", false);
+          showToast(" Something went wrong.", false);
         })
         .finally(() => {
           submitBtn.disabled = false;
